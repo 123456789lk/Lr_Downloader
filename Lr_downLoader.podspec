@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Lr_downloader"
-  spec.version      = "1.0.21"
+  spec.version      = "1.0.22"
   spec.summary      = "A short description of Lr_downLoader."
 
   spec.description  = <<-DESC
