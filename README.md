@@ -1,0 +1,2 @@
+# Lr_downLoader
+podspec
