@@ -1,2 +1,2 @@
-# Lr_downLoader
-podspec
+# Lr_downloader
+iOS下载组件
