@@ -1,0 +1,6 @@
+framework module Lr_downLoader {
+  umbrella header "Lr_downLoader.h"
+
+  export *
+  module * { export * }
+}
